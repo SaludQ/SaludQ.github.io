@@ -28,6 +28,12 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+article.page {
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
 body {
 	line-height: 1;
 }
