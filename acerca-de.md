@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Salud Quevedo, estudiante de Ciclo Superior de Desarrollo de Aplicaciones Web, graduada en Psicología por la Universidad de Sevilla.
 
-### More Information
+### Más Informacin
 
-A place to include any other types of information that you'd like to include about yourself.
+Después de terminar el grado me he embarcado en la aventura de encontrar mi pasión. Algo entre misterio, investigación y humano.
 
-### Contact me
+### Contacto
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:saludqg10@gmail.com)
