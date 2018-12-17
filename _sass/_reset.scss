@@ -23,6 +23,9 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+h1 {
+	font-color: #8A0829;
+}
 // HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -53,6 +56,18 @@ table {
 	border-spacing: 0;
 }
 div#min.container {
+    background-color: white;
+}
+.wrapper-masthead { //cabezera
+    background-color: white;
+    border-bottom: 3px solid white;
+}
+article.post {
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.posts {
     background-color: white;
 }
 // Apply a natural box layout model to all elements
