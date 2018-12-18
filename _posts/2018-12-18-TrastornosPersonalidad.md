@@ -14,7 +14,7 @@ Aquí veremos los Trastornos de personalidad y sus características más importa
 
 *TIPOS*
 
-**Grupo A <raro o excéntrico>**
+**Grupo A -raro o excéntrico-**
 - Tastorno de la Personalidad Paranoide
 
   Patrón de desconfianza y sospechas sobre los motivos e intenciones de los demás.
@@ -27,7 +27,7 @@ Aquí veremos los Trastornos de personalidad y sus características más importa
 
   Patrón de malestar agudo en relaciones íntimas, distorsiones cognitivas o perceptivas, y excentricidades en la conducta.
 
-**Grupo B <dramático, emocional o errático>**
+**Grupo B -dramático, emocional o errático-**
 - Tastorno de la Personalidad Antisocial
 
   Patrón de indiferencia y violación de los derechos de los demás.
@@ -44,7 +44,7 @@ Aquí veremos los Trastornos de personalidad y sus características más importa
 
   Patrón de grandiosidad, necesidad de admiración, y falta de empatía.
 
-**Grupo C <ansioso o temeroso>**
+**Grupo C -ansioso o temeroso-**
 - Tastorno de la Personalidad Evitativo
 
   Patrón de inhibición social, sentimientos de inadecuación e hipersensibilidad a la evaluación negativa.
