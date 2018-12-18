@@ -12,4 +12,4 @@ Después de terminar el grado me he embarcado en la aventura de encontrar mi pas
 
 ### Contacto
 
-[saludg10@gmail.com](mailto:saludqg10@gmail.com)
+[saludqg10@gmail.com](mailto:saludqg10@gmail.com)
